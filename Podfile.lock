@@ -1,0 +1,44 @@
+PODS:
+  - Alamofire (5.7.1)
+  - IQKeyboardManagerSwift (6.5.12)
+  - lottie-ios (4.2.0)
+  - MarqueeLabel (4.3.0)
+  - SDWebImage (5.16.0):
+    - SDWebImage/Core (= 5.16.0)
+  - SDWebImage/Core (5.16.0)
+  - SQLite.swift (0.14.1):
+    - SQLite.swift/standard (= 0.14.1)
+  - SQLite.swift/standard (0.14.1)
+  - SwipeCellKit (2.7.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - IQKeyboardManagerSwift
+  - lottie-ios
+  - MarqueeLabel
+  - SDWebImage
+  - SQLite.swift
+  - SwipeCellKit
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - lottie-ios
+    - MarqueeLabel
+    - SDWebImage
+    - SQLite.swift
+    - SwipeCellKit
+
+SPEC CHECKSUMS:
+  Alamofire: 0123a34370cb170936ae79a8df46cc62b2edeb88
+  IQKeyboardManagerSwift: 371b08cb39664fb56030f5345c815a4ffc74bbc0
+  lottie-ios: 809ecf2d460ed650a6aed7aa88b2ec45fab4779c
+  MarqueeLabel: 02f5ac8fd6877c94564556cb93fa86c70c08baeb
+  SDWebImage: 2aea163b50bfcb569a2726b6a754c54a4506fcf6
+  SQLite.swift: 2992550ebf3c5b268bf4352603e3df87d2a4ed72
+  SwipeCellKit: 3972254a826da74609926daf59b08d6c72e619ea
+
+PODFILE CHECKSUM: 0bab3ee23ddc2e0377d6cd344986cb36a050be31
+
+COCOAPODS: 1.11.3
